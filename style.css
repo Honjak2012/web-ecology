@@ -1,6 +1,4 @@
-.bg
-
-{
+.bg{
 
     width: 100%;
     height: 100%;
@@ -80,7 +78,7 @@
 
 .facts-left{
     width: 50%;
-    background:url('/images/intro2.jpg') center/cover no-repeat;
+    background:url('intro2.jpg') center/cover no-repeat;
     height: 200px;
     display: flex;
     align-items: center;
@@ -199,13 +197,13 @@
 }
 
 .ab-item1{
-    background: url('images/internet.jpg') center/cover no-repeat;
+    background: url('internet.jpg') center/cover no-repeat;
 }
 
 .ab-item2{
-    background: url('images/events.jpg') center/cover no-repeat;
+    background: url('events.jpg') center/cover no-repeat;
 }
 
 .ab-item3{
-    background: url('images/friends.jpg') center/cover no-repeat;
+    background: url('friends.jpg') center/cover no-repeat;
 }
